@@ -38,4 +38,22 @@ Los usuarios pueden agregar nombres a una lista y, al finalizar, el programa sel
 Este proyecto es una **página web estática**, por lo que no requiere instalación de dependencias.  
 Para ejecutarlo solo necesitas:  
 
+1. Descargar o clonar el repositorio.  
+2. Abrir el archivo `index.html` en tu navegador favorito.  
+
+---
+
+## 👩‍💻 Personas desarrolladoras
+- Elizabeth Gallardo Aguirre
+
+---
+
+## 📜 Licencia
+Este proyecto está bajo la licencia **MIT**.  
+
+---
+
+## ✅ Conclusión
+El **Desafío del Amigo Secreto** es una práctica divertida y sencilla para reforzar conceptos básicos de **HTML, CSS y JavaScript**, ideal para aprender sobre listas, validaciones y funciones aleatorias.
+
 
